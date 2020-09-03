@@ -1,8 +1,7 @@
 # Animated Login Form
 This Login form was created using HTML, CSS and JQUREY
 
-# Color Variant
+# Color Variants
 
 Dark Periwinkle and Jade Dust
------------------------------
 Red Orange and Black Pearl
