@@ -7,5 +7,4 @@ Find the CSS files in the "CSS Files" folder and rename the file you want to use
 
 # Color Variants
 
-Dark Periwinkle and Jade Dust <br />
-Red Orange and Black Pearl
+Blue
